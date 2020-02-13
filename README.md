@@ -1,2 +1,3 @@
 # M-P
-Temporary repo for current project
+
+Metaphor Detection and Metaphor Interpretation
